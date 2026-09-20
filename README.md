@@ -37,52 +37,8 @@
   width="100%"
 />
 
-<br/><br/>
+<br/>
 
-<!-- =========================================================
-     ANIMATED INTRO
-========================================================= -->
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Development;Android+Application+Development;Building+Real%2C+Useful+Projects;Always+Learning+%26+Improving"
-  alt="Typing SVG"
-/>
-
-<br/><br/>
-
-<!-- =========================================================
-     SOCIAL LINKS
-========================================================= -->
-
-<a href="https://www.linkedin.com/in/wisvin-gesara-0137652a6/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-
-<a href="mailto:gesarawishwin@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
-
-<a href="https://github.com/Wishwin-create?tab=repositories">
-  <img
-    src="https://img.shields.io/badge/Projects-Explore-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="Projects"
-  />
-</a>
-
-<br/><br/>
-
-<img
-  src="https://komarev.com/ghpvc/?username=Wishwin-create&style=for-the-badge&color=2563EB&label=Profile+Views"
-  alt="Profile Views"
-/>
-
-</div>
 
 <br/>
 
@@ -370,17 +326,6 @@ An interactive educational web application designed to teach recycling, waste ma
 
 <div align="center">
 
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=Wishwin-create&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-  alt="Wishwin GitHub Stats"
-/>
-
-<img
-  width="37%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wishwin-create&layout=compact&theme=tokyonight&hide_border=true"
-  alt="Wishwin Top Languages"
-/>
 
 <br/><br/>
 
@@ -396,18 +341,6 @@ An interactive educational web application designed to teach recycling, waste ma
 ---
 
 # 🎯 What I'm Focusing On
-
-<div align="center">
-
-```mermaid
-graph LR
-    A["🏗️ Build Real Projects"] --> B["🐞 Learn From Mistakes"]
-    B --> C["🔧 Improve Architecture"]
-    C --> D["🔁 Keep Experimenting"]
-    D --> A
-```
-
-</div>
 
 <table>
 
